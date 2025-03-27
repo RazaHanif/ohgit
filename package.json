@@ -1,6 +1,6 @@
 {
   "name": "ohgit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Git bot that commits when you forget!",
   "main": "index.js",
   "bin": {
