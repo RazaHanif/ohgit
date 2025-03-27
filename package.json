@@ -6,9 +6,6 @@
   "bin": {
     "ohgit": "./index.js"
   },
-  "scripts": {
-    "start": "node index.js"
-  },
   "keywords": [
     "git",
     "automation",
